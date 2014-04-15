@@ -43,11 +43,11 @@ a:visited { color: #2352E8; }
 
 .posts li {
   line-height: 1.75em;
+  font-family: "Orbitron", "Courier New", monospace;
 }
 
 .posts span {
   color: #aaa;
-  font-family: "Orbitron", "Courier New", monospace;
   font-size: 1em;
 }
 
