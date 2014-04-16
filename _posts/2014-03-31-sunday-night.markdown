@@ -22,6 +22,7 @@ The B-Weez PitchFX show every pitch Padres hit in play was a slider:
 <div align="center">
 <blockquote class="twitter-tweet" lang="en"><p>sliders smh <a href="https://twitter.com/search?q=%23rage&amp;src=hash">#rage</a> <a href="http://t.co/UW8yOzJD2x">pic.twitter.com/UW8yOzJD2x</a></p>&mdash; IsBrianWilsonRaging? (@IsBWeezRaging) <a href="https://twitter.com/IsBWeezRaging/statuses/450484976698421248">March 31, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<span style="font-size: 9pt;">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/tree/master/data/2014-03-31-sunday-night">on GitHub</a></span>
 </div>
 
 Naive pitching coach says "Don't throw sliders!" But Dodgers color guy Rick Monday had some wisdom on KLAC:
