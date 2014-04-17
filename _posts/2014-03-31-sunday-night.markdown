@@ -17,18 +17,21 @@ The game-changing, pinch-hit Seth Smith homerun. The error, the stolen base send
 
 Fail. Rage.
 
+<img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-03-31-sunday-night/shame1.gif"/>
+<p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
+
 The B-Weez PitchFX show every pitch Padres hit in play was a slider:
 
 <div align="center">
 <blockquote class="twitter-tweet" lang="en"><p>sliders smh <a href="https://twitter.com/search?q=%23rage&amp;src=hash">#rage</a> <a href="http://t.co/UW8yOzJD2x">pic.twitter.com/UW8yOzJD2x</a></p>&mdash; IsBrianWilsonRaging? (@IsBWeezRaging) <a href="https://twitter.com/IsBWeezRaging/statuses/450484976698421248">March 31, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<span style="font-size: 9pt;">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/tree/master/data/2014-03-31-sunday-night">on GitHub</a></span>
+<span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/tree/master/data/2014-03-31-sunday-night">on GitHub</a></span>
 </div>
 
 Naive pitching coach says "Don't throw sliders!" But Dodgers color guy Rick Monday had some wisdom on KLAC:
 
 "Brian Wilson is pitching very unlike Brian Wilson. He hasn't found the plate with consistency, and when he has found the plate, it's been the big part of it."
 
-Only five of the 12 fastballs and cutters Wilson threw were strikes, according to the PitchFX data. Inability to throw fastballs for strikes means negative WPA and hanging head in shame.
+Only five of the 12 fastballs and cutters Wilson threw were strikes, according to the PitchFX data. Inability to throw fastballs for strikes leads to negative WPA and hanging head in shame.
 
-<img class="img-center" src="http://isbrianwilsonraging.com/post-assets/2014-03-31-sunday-night/shame.gif">
+<img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-03-31-sunday-night/shame2.gif"/>

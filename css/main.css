@@ -193,3 +193,7 @@ a:visited { color: #2352E8; }
   width: 400px;
   margin: 0 auto;
 }
+
+.caption {
+  font-size: 0.7em;
+}
