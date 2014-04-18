@@ -2,7 +2,7 @@
 layout: post
 title:  "15-day DL: There will be rage"
 date:   2014-04-15 18:35:07
-categories: jekyll update
+categories: games
 ---
 
 There's media drama surrounding the roster moves necessary for B-Weez to return from a stint on the disabled list.
