@@ -2,7 +2,7 @@
 layout: post
 title:  "Sunday Night Baseball rage"
 date:   2014-03-31 8:00:00
-categories: jekyll update
+categories: games
 ---
 
 It was gonna be epic. The first ESPN Sunday Night Baseball game of the year, Hyun-Jin Ryu pitching seven shutout innings against the division-rival Padres.
