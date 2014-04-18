@@ -2,7 +2,7 @@
 layout: post
 title:  "That knuckleball doe"
 date:   2014-03-29 20:18:07
-categories: jekyll update
+categories: games
 ---
 
 MLB.com's [Cut4](http://wapc.mlb.com/cutfour/2014/03/04/68690860/brian-wilsons-first-pitch-of-the-year-was-a-knuckleball) preserved the first pitch B-Weez threw in his [March 4 spring training start](http://mlb.mlb.com/news/boxscore.jsp?gid=2014_03_04_seamlb_lanmlb_1) against the Mariners:
