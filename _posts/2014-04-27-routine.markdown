@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Rage against the routine"
+date:   2014-04-27 15:10:00
+categories: games
+---
+
+Prior to this week, Brian Wilson's last ninth inning appearance was [Game 1 of the 2013 NLCS](http://m.mlb.com/video/topic/69490714/v31125445/nlcs-gm1-wilson-escapes-ninth-sends-it-to-extras/?c_id=mlb). He threw 28 pitches and maintained a 2-2 tie against the Cardinals in St. Louis.
+
+Brian Wilson made two ninth-inning appearances twice this week, but they did not go well.
+
+Weez was asked hold a 2-2 tie in the top of the ninth against the Phillies, but he allowed a pair of seeing-eye singles; a full-count, gamebreaking Carlos Ruiz double; a five-pitch walk to Chase Utley. Wilson's 28th and final pitch was a two-strike, 94mph fastball that hit Ryan Howard, and when it was all over he was charged with four earned runs and a loss.
+
+Two nights later Weez took the mound with a 7-3 lead in the ninth against the Rockies, walked Charlie Blackmon after a nine-pitch battle, walked Justin Morneau on four pitches and got the yank.
+
+<div align="center">
+    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-27-routine/bye.gif"/>
+    <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
+</div>
+
+
+You could have seen these ninth-inning outings coming, thanks to MLB.com's Ken Gurnick. The morning before Wilson's loss to the Phillies, Gurnick wrote about Don Mattingly's [heavy use of closer Kenley Jansen](http://losangeles.dodgers.mlb.com/news/article.jsp?ymd=20140424&content_id=73257940&notebook_id=73266646&vkey=notebook_la&c_id=la
+http://www.baseball-reference.com/players/gl.cgi?id=janseke01&t=p&year=2014), who has pitched on consecutive days six times this season and is on pace to break the MLB pitcher record for appearances in a season.
+
+The next day, following Wilson's 28-pitch loss, Gurnick wrote that Wilson was ["not in sync"](http://mlb.mlb.com/news/article.jsp?ymd=20140425&content_id=73322494&notebook_id=73345020&vkey=notebook_la&c_id=la) and seeking more appearances. Right on cue, Weez got his chance in the ninth and walked two batters.
+
+Throughout his career, most of Wilson's appearances have been on no days of rest. The chart below uses Baseball-Reference.com [days of rest](http://www.baseball-reference.com/players/gl.cgi?id=wilsobr01&t=p&year=2014) data. Note Wilson pitched only two games before suffering a season-ending injury in 2012.
+
+<div align="center">
+    <img src="http://isbrianwilsonraging.com/post-assets/2014-04-27-routine/rest.png"/>
+    <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/tree/gh-pages/data/2014-04-27-routine">on GitHub</a></span></p>
+</div>
+
+The switch from closer to setup man must have affected Wilson's routine, but the 2014 season has been particularly weird. Fifteen days on the DL threw off the groove, and there was that rumor that it's all [Australia's fault](http://articles.latimes.com/2014/apr/02/sports/la-sp-dodgers-kershaw-wilson-20140403).
