@@ -26,7 +26,7 @@ According to the [Average Leverage Index](http://www.fangraphs.com/blogs/get-to-
 The Twins felt the pressure of the situation too: Trevor Plouffe had a little moment in the dugout after flying out on a full count against Wilson.
 
 <div align="center">
-    <img class="freezeframe" src="http://localhost:4000/post-assets/2014-05-02-clutch/rage.gif"/>
+    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-05-02-clutch/rage.gif"/>
     <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
 </div>
 
