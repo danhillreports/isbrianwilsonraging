@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Dude, clutch"
+date:   2014-05-02 9:10:00
+categories: games
+---
+
+He didn't get credit for a win or save, but Brian Wilson was actually kinda clutch last night.
+
+Weez came in with the game tied during the 8th inning of the second game of a doubleheader ([called it](http://isbrianwilsonraging.com/games/2014/05/01/doubleheader.html) against the Twins after Paco Rodriguez gave up a walk and a single to start the inning.
+
+Minnesota's win expectancy was at 76.1% with two on and no outs when Weez entered. The game was back even at 50% when Wilson's work was done.
+
+<div align="center">
+    <iframe src="http://www.fangraphs.com/graphframe.aspx?config=0&static=0&type=wins&num=0&h=450&w=450&date=2014-05-01&team=Twins&dh=2" frameborder="0" scrolling="no" height="450" width = "450" style="border:1px solid black;"></iframe><br /><span style="font-size:9pt;">Source: <a href="http://www.fangraphs.com/wins.aspx?date=2014-05-01&team=Twins&dh=2&season=2014">FanGraphs</a></span>
+</div>
+
+The outing got pretty intense when Brian Dozier stole third base uncontested, but Weez struck out the next two batters like a boss to end the inning.
+
+According to the [Average Leverage Index](http://www.fangraphs.com/blogs/get-to-know-leverage-index/), it was the most pressure Wilson faced in an outing this season.
+
+<div align="center">
+    <script type="text/javascript" src="http://widgets.sports-reference.com/wg.fcgi?css=1&site=br&url=%2Fplayers%2Fgl.cgi%3Fid%3Dwilsobr01%26t%3Dp%26year%3D2014&div=div_pitching_gamelogs&del_col=1,2,3,5,6,9,10,11,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,46"></script>
+</div>
+
+The Twins felt the pressure of the situation too: Trevor Plouffe had a little moment in the dugout after flying out on a full count against Wilson.
+
+<div align="center">
+    <img class="freezeframe" src="http://localhost:4000/post-assets/2014-05-02-clutch/rage.gif"/>
+    <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
+</div>
+
+Rage.
