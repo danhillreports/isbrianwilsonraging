@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "BRIAN WILSON SAVES GAME, AMERICA"
+date:   2014-06-26 07:00:00
+categories: games
+---
+
+You won't believe what happened in Kansas City last night. BRIAN WILSON SAVED A GAME.
+
+<iframe src='http://m.mlb.com/shared/video/embed/embed.html?content_id=34047645&topic_id=53317474&width=400&height=224&property=mlb' width='400' height='224' frameborder='0'>Your browser does not support iframes.</iframe>
+
+It was ["unconventional"](http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_06_25_lanmlb_kcamlb_1&mode=recap&c_id=la), but Weezy earned his first big league save of the 2014 season by recording the final three outs of the Dodgers' 5-4 victory over the Royals.
+
+His first big league save since joining the Los Angeles Dodgers.
+
+His first big league save since <strong>[April 12, 2012](http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2012_04_12_sfnmlb_colmlb_1&mode=wrap#gid=2012_04_12_sfnmlb_colmlb_1&mode=video)</strong>, when he [injured his robot arm](http://m.mlb.com/video/?content_id=20644839&c_id=mlb) and had another Tommy John Surgery.
+
+That means it's been <strong>805 days</strong> since Wilson's last save. More than two years since this:
+<div align="center">
+    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-06-26-usa-usa/beautiful.gif"/>
+    <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
+</div>
+
+A few hours before Wilson's epic save, Weezy's old teammate Tim Lincecum completed his second no-hitter in as many seasons. But whatev, these days a Brian Wilson save is way more rare than a Tim Lincecum no-hitter.
+
+<div align="center">
+    <img src="http://isbrianwilsonraging.com/post-assets/2014-06-26-usa-usa/chart.png"/>
+    <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/blob/gh-pages/data/2014-06-26-usa-usa/">on GitHub</a></span></p>
+</div>
+
+Did I mention it's [BRIAN WILSON BEARD BOBBLEHEAD NIGHT](https://twitter.com/Dodgers/status/482019894037192704)?
+
+<div align="center">
+    <a href="http://www.fifa.com/worldcup/matches/round=255931/match=300186469/index.html"><img src="http://isbrianwilsonraging.com/post-assets/2014-06-26-usa-usa/usa.png"/></a>
+    <p><span class="caption">Rage, friends. Our savior has returned.</span></p>
+</div>
