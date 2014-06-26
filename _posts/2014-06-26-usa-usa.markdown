@@ -25,7 +25,7 @@ A few hours before Wilson's epic save, Weezy's old teammate Tim Lincecum complet
 
 <div align="center">
     <img src="http://isbrianwilsonraging.com/post-assets/2014-06-26-usa-usa/chart.png"/>
-    <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/blob/gh-pages/data/2014-06-26-usa-usa/">on GitHub</a></span></p>
+    <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/blob/gh-pages/data/2014-06-26-usa-usa/usa.R">on GitHub</a></span></p>
 </div>
 
 Did I mention it's [BRIAN WILSON BEARD BOBBLEHEAD NIGHT](https://twitter.com/Dodgers/status/482019894037192704)?
