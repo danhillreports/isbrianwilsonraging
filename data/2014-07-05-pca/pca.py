@@ -41,4 +41,3 @@ for i in range(len(X)):
 	pl.plot(X[i, 0], 0, marker='o', markersize=5, label=i)
 	pl.text(X[i, 0] + 1, 0, labels[i], fontsize=11)
 pl.show()
-import ipdb; ipdb.set_trace()
