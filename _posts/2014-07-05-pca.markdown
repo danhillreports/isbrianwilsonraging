@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Three pitchers, one hit"
+date:   2014-07-06 10:00:00
+categories: games
+---
+
+Dan Haren, Brian Wilson and Kenley Jansen threw a [combined one-hitter](http://losangeles.dodgers.mlb.com/mlb/gameday/index.jsp?gid=2014_06_30_clemlb_lanmlb_1&mode=recap&c_id=la#gid=2014_06_30_clemlb_lanmlb_1&mode=recap&c_id=la
+) against the Cleveland Indians June 30 in Los Angeles.
+
+Although not as cool as the rare [combined no-hitter](http://www.sbnation.com/2012/6/9/2268023/combined-no-hitter-mariners-dodgers-rare-feat) (the last combined no-hitter happened to the Dodgers in Seattle in 2012), it was clutch pitching with the LA offense scoring just one run.
+
+With Haren, Weez and Jansen all throwing with similar results, I was curious if they all attacked Indians the same way. tl;dr, they're different pitchers.
+
+These pitch location plots don't account for righty and lefty batters, but you can see Weez bein' Weez and avoiding the zone.
+
+<div align="center">
+    <img src="http://isbrianwilsonraging.com/post-assets/2014-07-05-pca/haren.png"/>
+    <p><span class="caption">zone breakdown by <a href="http://baseballsavant.com/pitchfx_search.php?hfPT=&hfZ=&hfGT=R%7C&hfPR=&hfAB=&hfBB=&hfHL=&hfCount=&ddlYear=2014&ddlPlayer=pitcher&ddlMin=0&ddlPitcherHand=&ddlBatterHand=&ddlVGT=&ddlVLT=&ddlDistGT=&ddlDistLT=&txtGameDateGT=2014-06-30&txtGameDateLT=2014-06-30&ddlTeam=LAD&ddlPosition=&hfRO=&ddlHomeRoad=&hfIN=&hfOT=&ddlGroupBy=name&ddlSort=desc&ddlMinABs=0&ddlSBSuccess=&txtPx1=&txtPx2=&txtPz1=&txtPz2=&ddlRPXGT_ft=&ddlRPXGT_in=&ddlRPXLT_ft=&ddlRPXLT_in=&ddlRPYGT_ft=&ddlRPYGT_in=&ddlRPYLT_ft=&ddlRPYLT_in=&txtBAGT=&txtBALT=&txtBLGT=&txtBLLT=&txtSRGT=&txtSRLT=&txtSDGT=&txtSDLT=#results">Baseball Savant</a></span></p>
+</div>
+
+<div align="center">
+    <img src="http://isbrianwilsonraging.com/post-assets/2014-07-05-pca/weez.png"/>
+</div>
+
+<div align="center">
+    <img src="http://isbrianwilsonraging.com/post-assets/2014-07-05-pca/kenley.png"/>
+</div>
+
+The pitchers are pretty unique in terms of stuff: Haren has a knuckle curve, Wilson switches between heat and sliders and each of Jansen's 11 pitches against Cleveland was a type of fastball.
+
+I pulled together some [metrics](https://github.com/danhillreports/isbrianwilsonraging/blob/gh-pages/data/2014-07-05-pca/comps.csv) on their June 30 performances including velocity, strike rate, groundball rate and percentages of pitches thrown to different regions. Then I brought in a handy script that performs [principal component analysis](http://en.wikipedia.org/wiki/Principal_component_analysis), which can reduce a bunch of observations to a few important values. I asked PCA to take all the stats and summarize each pitcher with just one number. Using my subjective selection of variables, it spat out this chart.
+
+<div align="center">
+    <img src="http://isbrianwilsonraging.com/post-assets/2014-07-05-pca/figure_1.png" class="img-center"/>
+    <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/blob/gh-pages/data/2014-07-05-pca/pca.py">on GitHub</a></span></p>
+</div>
+
+It shows Haren and Weez were slightly more similar on June 30, probably because they threw off-speed stuff and Jansen didn't. There are obviously lots of ways to compare pitchers, doesn't the idea of reducing them to just one number make you want to rage?

@@ -197,3 +197,9 @@ a:visited { color: #2352E8; }
 .caption {
   font-size: 0.7em;
 }
+
+@media all and (max-width: 400px) {
+  .img-center {
+    width: 100%;
+  }
+}

@@ -1,0 +1,1 @@
+I adapted the [pca.py script](https://github.com/cjdd3b/nicar2013/tree/master/lightning-talk) from a sweet [Chase Davis talk](http://vimeo.com/61290206). You'll need to install the [requirements](https://github.com/cjdd3b/nicar2013/blob/master/requirements.txt).
