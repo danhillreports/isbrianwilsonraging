@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "All Star rage"
+date:   2014-07-16 8:20:00
+---
+
+The 2014 All-Star Game came and went, and Brian Wilson didn't participate - not even in the [red carpet photo ops](https://twitter.com/search?q=%23ASGRedCarpet%20from%3Amlb&src=typd&mode=videos). Rage.
+
+The Dodgers sent Puig, Greinke, Kershaw and Dee Gordon to Minneapolis, and seven NL relief pitchers were selected ahead of BWeez. It's [kinda rare for non-closing relievers to be named all stars](http://mlb.mlb.com/news/article/tb/non-closing-relievers-face-tough-path-to-all-star-game?ymd=20140626&content_id=81720730), but there were three on this year's NL roster (Pat Neshek got the loss, haha). How could so many relievers could be considered better than Wilson?
+
+I pulled the first-half [fizzy beer](http://isbrianwilsonraging.com/2014/06/02/fizzy-beer.html) stats for the All Star relievers and Wilson from [Fangraphs](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2014&month=30&season1=2014&ind=0&team=0&rost=0&age=0&filter=&players=10233,5640,6655,4682,1642,8258,3132,6485), sorted by WAR and put them in a table ([thanks Marcos](http://csv.codingnews.info/)). Shocker, Wilson is the worst in all the metrics.
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th><th>Team</th><th>G</th><th>SV</th><th>HLD</th><th>IP</th><th>K%</th><th>BB%</th><th>K-BB%</th><th>ERA</th><th>FIP</th><th>WHIP</th><th>WAR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-title="Name">Aroldis Chapman</td><td data-title="Team">Reds</td><td data-title="G">29</td><td data-title="SV">21</td><td data-title="HLD">0</td><td data-title="IP">29.2</td><td data-title="K%">54.1</td><td data-title="BB%">9.0</td><td data-title="K-BB%">45.1</td><td data-title="ERA">2.12</td><td data-title="FIP">0.54</td><td data-title="WHIP">0.78</td><td data-title="WAR">1.8</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Craig Kimbrel</td><td data-title="Team">Braves</td><td data-title="G">39</td><td data-title="SV">29</td><td data-title="HLD">0</td><td data-title="IP">37.2</td><td data-title="K%">41.1</td><td data-title="BB%">9.9</td><td data-title="K-BB%">31.1</td><td data-title="ERA">1.91</td><td data-title="FIP">1.55</td><td data-title="WHIP">0.88</td><td data-title="WAR">1.6</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Pat Neshek</td><td data-title="Team">Cardinals</td><td data-title="G">43</td><td data-title="SV">2</td><td data-title="HLD">13</td><td data-title="IP">38.1</td><td data-title="K%">26.8</td><td data-title="BB%">3.6</td><td data-title="K-BB%">23.2</td><td data-title="ERA">0.7</td><td data-title="FIP">2.09</td><td data-title="WHIP">0.57</td><td data-title="WAR">1.3</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Tony Watson</td><td data-title="Team">Pirates</td><td data-title="G">45</td><td data-title="SV">0</td><td data-title="HLD">22</td><td data-title="IP">44.1</td><td data-title="K%">27.8</td><td data-title="BB%">5.6</td><td data-title="K-BB%">22.2</td><td data-title="ERA">1.42</td><td data-title="FIP">2.42</td><td data-title="WHIP">1.06</td><td data-title="WAR">1</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Tyler Clippard</td><td data-title="Team">Nationals</td><td data-title="G">43</td><td data-title="SV">1</td><td data-title="HLD">19</td><td data-title="IP">40</td><td data-title="K%">31.9</td><td data-title="BB%">10.8</td><td data-title="K-BB%">21.1</td><td data-title="ERA">2.03</td><td data-title="FIP">2.49</td><td data-title="WHIP">1.23</td><td data-title="WAR">1</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Huston Street</td><td data-title="Team">Padres</td><td data-title="G">33</td><td data-title="SV">24</td><td data-title="HLD">0</td><td data-title="IP">33</td><td data-title="K%">28.1</td><td data-title="BB%">5.8</td><td data-title="K-BB%">22.3</td><td data-title="ERA">1.09</td><td data-title="FIP">2.9</td><td data-title="WHIP">0.76</td><td data-title="WAR">0.5</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Francisco Rodriguez</td><td data-title="Team">Brewers</td><td data-title="G">45</td><td data-title="SV">27</td><td data-title="HLD">0</td><td data-title="IP">45.1</td><td data-title="K%">29.7</td><td data-title="BB%">5.7</td><td data-title="K-BB%">24.0</td><td data-title="ERA">2.58</td><td data-title="FIP">3.58</td><td data-title="WHIP">0.9</td><td data-title="WAR">0.3</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Brian Wilson</td><td data-title="Team">Dodgers</td><td data-title="G">37</td><td data-title="SV">1</td><td data-title="HLD">14</td><td data-title="IP">30.1</td><td data-title="K%">23.3</td><td data-title="BB%">15.3</td><td data-title="K-BB%">8.0</td><td data-title="ERA">5.64</td><td data-title="FIP">4.69</td><td data-title="WHIP">1.88</td><td data-title="WAR">-0.4</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+Wilson is a three-time All Star, but his game and robot arm have changed since his last ASG appearnce in 2011. His first-half fizzy beer stats are worse this season than those for his other All Star seasons.
+
+<table class="" id="">
+  <thead>
+    <tr>
+      <th>Name</th><th>Team</th><th>Year</th><th>G</th><th>SV</th><th>HLD</th><th>IP</th><th>K%</th><th>BB%</th><th>K-BB%</th><th>ERA</th><th>FIP</th><th>WHIP</th><th>WAR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-title="Name">Brian Wilson</td><td data-title="Team">Giants</td><td data-title="Year">2010</td><td data-title="G">35</td><td data-title="SV">23</td><td data-title="HLD">0</td><td data-title="IP">37.2</td><td data-title="K%">30.70</td><td data-title="BB%">9.80</td><td data-title="K-BB%">20.90</td><td data-title="ERA">1.91</td><td data-title="FIP">2.12</td><td data-title="WHIP">1.33</td><td data-title="WAR">1.3</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Brian Wilson</td><td data-title="Team">Giants</td><td data-title="Year">2008</td><td data-title="G">38</td><td data-title="SV">25</td><td data-title="HLD">0</td><td data-title="IP">37.1</td><td data-title="K%">24.00</td><td data-title="BB%">12.00</td><td data-title="K-BB%">12.00</td><td data-title="ERA">4.58</td><td data-title="FIP">3.8</td><td data-title="WHIP">1.53</td><td data-title="WAR">0.5</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Brian Wilson</td><td data-title="Team">Giants</td><td data-title="Year">2011</td><td data-title="G">43</td><td data-title="SV">26</td><td data-title="HLD">0</td><td data-title="IP">43</td><td data-title="K%">22.90</td><td data-title="BB%">11.70</td><td data-title="K-BB%">11.20</td><td data-title="ERA">3.14</td><td data-title="FIP">3.3</td><td data-title="WHIP">1.42</td><td data-title="WAR">0.3</td>
+    </tr>
+    <tr>
+      <td data-title="Name">Brian Wilson</td><td data-title="Team">Dodgers</td><td data-title="Year">2014</td><td data-title="G">37</td><td data-title="SV">1</td><td data-title="HLD">14</td><td data-title="IP">30.1</td><td data-title="K%">23.3</td><td data-title="BB%">15.3</td><td data-title="K-BB%">8.0</td><td data-title="ERA">5.64</td><td data-title="FIP">4.69</td><td data-title="WHIP">1.88</td><td data-title="WAR">-0.4</td>
+    </tr>
+  </tbody>
+</table>
+
+The upside of Wilson's all-star snub has to be the extra rest. His last appearance is still July 6, that time he [threw his shortstop shade](http://isbrianwilsonraging.com/games/2014/07/09/era.html). Whenever he pitches next, Weez will have at least two weeks of relaxing rest.
