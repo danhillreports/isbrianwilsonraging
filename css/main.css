@@ -276,3 +276,12 @@ table td:nth-child(1) {
     }
     table td:first-child:before { content: ''; }
   }
+
+/* composite update styles */
+.increase {
+  color: #2352E8;
+}
+
+.decrease {
+  color: #EC603B;
+}
