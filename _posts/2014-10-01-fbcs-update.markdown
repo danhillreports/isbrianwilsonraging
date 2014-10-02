@@ -8,8 +8,7 @@ The Dodgers won the NL West and enter the postseason as the No. 2 seed. These fi
 
 Brian Wilson finishes ranked 13th out of the 17 Dodger relievers based on fizzy beer composite score. Wilson had the highest walk ratio in the bullpen, and his -0.4 WAR was worse than all LAD relievers except Chris Perez and Kevin Correia. Weezy's 22 holds was second to J.P. Howell, who finished with 27.
 
-The table below uses [Fangraphs leaderboard data](http://www.fangraphs.com/leaders.aspx?pos=all&stats=rel&lg=all&qual=0&type=c,7,11,114,13,120,121,217,6,45,42,59&season=2014&month=0&season1=2014&ind=0&team=22&rost=0&age=0&filter=&players=0) and was built with [CSV to table](http://csv.codingnews.info/) by Marcos. <span class="increase">Blue</span> in the table below means a positive change, <span class="decrease">red</span> means that pitcher's metric went in the wrong direction over the past week.
-
+The table below uses [Fangraphs leaderboard data](http://www.fangraphs.com/leaders.aspx?pos=all&stats=rel&lg=all&qual=0&type=c,7,11,114,13,120,121,217,6,45,42,59&season=2014&month=0&season1=2014&ind=0&team=22&rost=0&age=0&filter=&players=0) and was built with [CSV to table](http://csv.codingnews.info/) by Marcos.
 
 <table>
   <thead>
