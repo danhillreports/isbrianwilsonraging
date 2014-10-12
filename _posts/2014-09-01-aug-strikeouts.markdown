@@ -10,7 +10,7 @@ In [11 August appearances](http://www.baseball-reference.com/players/gl.cgi?id=w
 
 Note Wilson has no strikeouts since August 14, when he had an [awful outing](http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_14_lanmlb_atlmlb_1&mode=wrap&c_id=la#gid=2014_08_14_lanmlb_atlmlb_1&mode=recap&c_id=la) in Atlanta.
 
-Although Weez started throwing a [curveball](http://isbrianwilsonraging.com/games/2014/07/23/welcome.html) the second half of the season, he has yet to strike out a batter with the pitch.
+Weez struck out three batters in September with a curveball, the pitch he [started throwing](http://isbrianwilsonraging.com/games/2014/07/23/welcome.html) the second half of the season.
 
 It's been a while since Wilson struck out a batter, so relive the epicness that was the first two weeks of August with these gifs and PitchFX notes from [Baseball Savant](http://baseballsavant.com/pitchfx_search.php?hfPT=&hfZ=&hfGT=R%7C&hfPR=&hfAB=28%7C29%7C&ddlStadium=&hfBB=&hfHL=&pid%5B%5D=451216&hfCount=&ddlYear=2014&ddlPlayer=pitcher&ddlMin=0&ddlPitcherHand=&ddlBatterHand=&ddlVGT=&ddlVLT=&ddlDistGT=&ddlDistLT=&txtAngleGT=&txtAngleLT=&txtGameDateGT=2014-08-01&txtGameDateLT=2014-08-31&ddlTeam=&ddlPosition=&hfRO=&ddlHomeRoad=&hfIN=&hfOT=&ddlGroupBy=name&ddlSort=desc&ddlMinABs=0&ddlSBSuccess=&txtPx1=&txtPx2=&txtPz1=&txtPz2=&ddlRPXGT_ft=&ddlRPXGT_in=&ddlRPXLT_ft=&ddlRPXLT_in=&ddlRPYGT_ft=&ddlRPYGT_in=&ddlRPYLT_ft=&ddlRPYLT_in=&txtBAGT=&txtBALT=&txtBLGT=&txtBLLT=&txtSRGT=&txtSRLT=&txtSDGT=&txtSDLT=#results).
 
@@ -29,7 +29,7 @@ It's been a while since Wilson struck out a batter, so relive the epicness that 
 		<td>August 1</td>
 		<td>Cubs</td>
 		<td>Starlin Castro</td>
-		<td>Cutter</td>
+		<td>Curveball</td>
 		<td>78.9 mph</td>
 		<td>1-2</td>
 		<td>1 out</td>
@@ -53,7 +53,7 @@ It's been a while since Wilson struck out a batter, so relive the epicness that 
 		<td>August 1</td>
 		<td>Cubs</td>
 		<td>Luis Valbuena</td>
-		<td>Cutter</td>
+		<td>Curveball</td>
 		<td>79.5 mph</td>
 		<td>2-2</td>
 		<td>2 outs</td>
@@ -151,7 +151,7 @@ Struck out the side!
 		<td>August 5</td>
 		<td>Angels</td>
 		<td>Josh Hamilton</td>
-		<td>Cutter</td>
+		<td>Curveball</td>
 		<td>78.7 mph</td>
 		<td>1-2</td>
 		<td>1 out</td>
