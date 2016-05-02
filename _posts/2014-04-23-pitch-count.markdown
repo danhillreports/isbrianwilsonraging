@@ -8,7 +8,7 @@ categories: games
 Vin Scully called Brian Wilson a "workhorse" last night, citing the 20+ pitches Wilson threw in each of his first two games back from the disabled list. Looking just at pitch counts, last night was Wilson's easiest outing yet.
 
 <div align="center">
-    <img src="http://isbrianwilsonraging.com/post-assets/2014-04-23-pitch-count/bweez.png"/>
+    <img src="{{ site.url }}/post-assets/2014-04-23-pitch-count/bweez.png"/>
     <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/tree/master/data/2014-04-23-pitch-count">on GitHub</a></span></p>
 </div>
 

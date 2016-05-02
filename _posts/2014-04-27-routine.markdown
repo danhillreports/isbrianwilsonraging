@@ -14,7 +14,7 @@ Weez was asked hold a 2-2 tie in the top of the ninth against the Phillies, but 
 Two nights later Weez took the mound with a 7-3 lead in the ninth against the Rockies, walked Charlie Blackmon after a nine-pitch battle, walked Justin Morneau on four pitches and got the yank.
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-27-routine/bye.gif"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-04-27-routine/bye.gif"/>
     <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
 </div>
 
@@ -27,7 +27,7 @@ The next day, following Wilson's 28-pitch loss, Gurnick wrote that Wilson was ["
 Throughout his career, most of Wilson's appearances have been on no days of rest. The chart below uses Baseball-Reference.com [days of rest](http://www.baseball-reference.com/players/gl.cgi?id=wilsobr01&t=p&year=2014) data. Note Wilson pitched only two games before suffering a season-ending injury in 2012.
 
 <div align="center">
-    <img src="http://isbrianwilsonraging.com/post-assets/2014-04-27-routine/rest.png"/>
+    <img src="{{ site.url }}/post-assets/2014-04-27-routine/rest.png"/>
     <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/tree/gh-pages/data/2014-04-27-routine">on GitHub</a></span></p>
 </div>
 

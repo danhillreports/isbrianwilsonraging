@@ -10,7 +10,7 @@ San Francisco announcers and fans questioned the strikes umpire Seth Buckminster
 The lefty aces for the Giants and Doders both missed out on called third strikes in the fourth inning. Madison Bumgarner thought he struck out Scott Van Slyke:
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-22-strike-zone/bum.gif"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-04-22-strike-zone/bum.gif"/>
     <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
 </div>
 
@@ -19,45 +19,45 @@ But it was a ball, and Van Slyke doubled a few pitches later.
 Hyun-Jin Ryu gave an epic grimmace after Buckminster wouldn't ring up Buster Posey in bottom of the 4th inning.
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-22-strike-zone/ryu.gif"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-04-22-strike-zone/ryu.gif"/>
 </div>
 
 Modeling Buckminster's strike zone from the game suggests he was stingy on the corners, particularly up and away to lefties.
 
 Caveats to this chart:
 <ul>
-    <li>the data source are 263 pitches that were not hit in play, but includes foul balls, which are consiered strikes (lookin at you, Pablo Sandoval)</li>
+    <li>the data are 263 pitches that were not hit in play, but includes foul balls, which are consiered strikes (lookin at you, Pablo Sandoval)</li>
     <li>the chart draws an approximate rule book strike zone following the approach described in [Analyzing Baseball Data with R](https://github.com/maxtoki/baseball_R/blob/master/scripts/Chap7.ballstrikes.R#L97) by using the average height of MLB players and the width of home plate</li>
     <li>the chart is from the catcher's point of view</li>
 </ul>
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-22-strike-zone/contour.png"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-04-22-strike-zone/contour.png"/>
     <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/tree/master/data/2014-04-22-strike-zone">on GitHub</a></span></p>
 </div>
 
 Enter B-Weez, who made a grumpy Panda...
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-22-strike-zone/panda.gif"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-04-22-strike-zone/panda.gif"/>
 </div>
 
 ... then got an elusive outside strike from Buckminster against Buster Posey.
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-22-strike-zone/posey.gif"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-04-22-strike-zone/posey.gif"/>
 </div>
 
 PitchFX put those pitches within the rulebook strike zone but also inside the toss-up regions of Buckminster's strike zone.
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-22-strike-zone/strikes.png"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-04-22-strike-zone/strikes.png"/>
 </div>
 
 Recreating Buckminster's "called strike" probability chart with only Wilson's pitches makes a shapes like this:
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-22-strike-zone/contour-bweez.png"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-04-22-strike-zone/contour-bweez.png"/>
 </div>
 
 So Buckminster totally fears the beard.

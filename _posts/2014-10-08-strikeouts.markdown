@@ -32,7 +32,7 @@ St. Louis eliminated the Dodgers in the NLDS, and Weez did not make a postseason
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com//post-assets/2014-10-08-strikeouts/1.gif"/>
+<img src="{{ site.url }}//post-assets/2014-10-08-strikeouts/1.gif"/>
 
 <h4>#2</h4>
 <table>
@@ -56,7 +56,7 @@ St. Louis eliminated the Dodgers in the NLDS, and Weez did not make a postseason
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com//post-assets/2014-10-08-strikeouts/2.gif"/>
+<img src="{{ site.url }}//post-assets/2014-10-08-strikeouts/2.gif"/>
 
 <h4>#3</h4>
 <table>
@@ -80,7 +80,7 @@ St. Louis eliminated the Dodgers in the NLDS, and Weez did not make a postseason
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com//post-assets/2014-10-08-strikeouts/3.gif"/>
+<img src="{{ site.url }}//post-assets/2014-10-08-strikeouts/3.gif"/>
 
 <h4>#4</h4>
 <table>
@@ -104,4 +104,4 @@ St. Louis eliminated the Dodgers in the NLDS, and Weez did not make a postseason
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com//post-assets/2014-10-08-strikeouts/4.gif"/>
+<img src="{{ site.url }}//post-assets/2014-10-08-strikeouts/4.gif"/>

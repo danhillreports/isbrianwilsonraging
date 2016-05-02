@@ -11,18 +11,18 @@ Weezy's most recent appearance featured some Dodger-on-Dodger rage.
 
 [Bloggers](http://fansided.com/2014/07/07/brian-wilson-mad-carlos-triunfel-passes-double-play-video/) [suggested](https://sports.yahoo.com/blogs/mlb-big-league-stew/brian-wilson-throws-up-hands-at-carlos-triunfel-s-odd-choice-on-defense-182715009.html) Weez was grouchy over the implications that failed double play had for his ERA.
 
-[Rough](http://isbrianwilsonraging.com/games/2014/03/31/sunday-night.html) [outings](http://isbrianwilsonraging.com/games/2014/05/07/hbp.html) spiked Weezy's ERA, but he started to bring it down in June. But his average has risen by one run in his two July appearances: the one run allowed in Colorado and a dreadful 1/3 of an inning [against the Indians](http://losangeles.dodgers.mlb.com/mlb/gameday/index.jsp?c_id=la&gid=2014_07_02_clemlb_lanmlb_1&lang=en&mode=wrap#gid=2014_07_02_clemlb_lanmlb_1) that earned him three runs and a loss.
+[Rough]({{ site.url }}/games/2014/03/31/sunday-night.html) [outings]({{ site.url }}/games/2014/05/07/hbp.html) spiked Weezy's ERA, but he started to bring it down in June. But his average has risen by one run in his two July appearances: the one run allowed in Colorado and a dreadful 1/3 of an inning [against the Indians](http://losangeles.dodgers.mlb.com/mlb/gameday/index.jsp?c_id=la&gid=2014_07_02_clemlb_lanmlb_1&lang=en&mode=wrap#gid=2014_07_02_clemlb_lanmlb_1) that earned him three runs and a loss.
 
-[Using ERA to judge relievers](http://research.sabr.org/journals/relief-pitchers-era-advantage) is [wonky](http://isbrianwilsonraging.com/games/2014/05/27/camo.html), but let's compare the evolution of Wilson's 2014 ERA to the other Dodger relievers anyway.
+[Using ERA to judge relievers](http://research.sabr.org/journals/relief-pitchers-era-advantage) is [wonky]({{ site.url }}/games/2014/05/27/camo.html), but let's compare the evolution of Wilson's 2014 ERA to the other Dodger relievers anyway.
 
 <div align="center">
-    <a href="http://isbrianwilsonraging.com/post-assets/2014-07-09-era/era.png"><img class="img-center" src="http://isbrianwilsonraging.com/post-assets/2014-07-09-era/era.png"/></a>
+    <a href="{{ site.url }}/post-assets/2014-07-09-era/era.png"><img class="img-center" src="{{ site.url }}/post-assets/2014-07-09-era/era.png"/></a>
     <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/blob/gh-pages/data/2014-07-09-era/">on GitHub</a></span></p>
 </div>
 
 [Everybody has bad days](https://www.youtube.com/watch?v=t93u0qg5q_M), but Wilson's ERA is particularly volatile thanks to the games when couldn't get an out. Weezy's ERA is the highest among active Dodger pitchers ([including starters](http://www.baseball-reference.com/teams/LAD/2014.shtml#team_pitching::7)), but he was catching up on Chris Perez until Carlos Triunfel didn't turn two.
 
 <div align="center">
-    <img src="http://isbrianwilsonraging.com/post-assets/2014-07-09-era/rage.png"/>
+    <img src="{{ site.url }}/post-assets/2014-07-09-era/rage.png"/>
     <p><span class="caption">meme</span></p>
 </div>

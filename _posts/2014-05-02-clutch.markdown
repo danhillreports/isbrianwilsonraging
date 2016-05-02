@@ -7,7 +7,7 @@ categories: games
 
 He didn't get credit for a win or save, but Brian Wilson was actually kinda clutch last night.
 
-Weez came in with the game tied during the 8th inning of the second game of a doubleheader ([called it](http://isbrianwilsonraging.com/games/2014/05/01/doubleheader.html) against the Twins after Paco Rodriguez gave up a walk and a single to start the inning.
+Weez came in with the game tied during the 8th inning of the second game of a doubleheader ([called it]({{ site.url }}/games/2014/05/01/doubleheader.html) against the Twins after Paco Rodriguez gave up a walk and a single to start the inning.
 
 Minnesota's win expectancy was at 76.1% with two on and no outs when Weez entered. The game was back even at 50% when Wilson's work was done.
 
@@ -26,7 +26,7 @@ According to the [Average Leverage Index](http://www.fangraphs.com/blogs/get-to-
 The Twins felt the pressure of the situation too: Trevor Plouffe had a little moment in the dugout after flying out on a full count against Wilson.
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-05-02-clutch/rage.gif"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-05-02-clutch/rage.gif"/>
     <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
 </div>
 

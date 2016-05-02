@@ -26,5 +26,5 @@ This was two days after Brian Wilson's smooth second half was interrupted by one
 Everyone just needs to chill and take it back to when BWeez sent this message to his San Francisco haters on [Sunday Night Baseball](http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_27_lanmlb_sfnmlb_1&mode=wrap&c_id=la).
 
 <div align="center">
-    <img src="http://isbrianwilsonraging.com/post-assets/2014-08-16-chill/blahblah.gif"/>
+    <img src="{{ site.url }}/post-assets/2014-08-16-chill/blahblah.gif"/>
 </div>

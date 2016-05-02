@@ -8,7 +8,7 @@ The 2014 All-Star Game came and went, and Brian Wilson didn't participate - not 
 
 The Dodgers sent Puig, Greinke, Kershaw and Dee Gordon to Minneapolis, and seven NL relief pitchers were selected ahead of BWeez. It's [kinda rare for non-closing relievers to be named all stars](http://mlb.mlb.com/news/article/tb/non-closing-relievers-face-tough-path-to-all-star-game?ymd=20140626&content_id=81720730), but there were three on this year's NL roster (Pat Neshek got the loss, haha). How could so many relievers could be considered better than Wilson?
 
-I pulled the first-half [fizzy beer](http://isbrianwilsonraging.com/2014/06/02/fizzy-beer.html) stats for the All Star relievers and Wilson from [Fangraphs](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2014&month=30&season1=2014&ind=0&team=0&rost=0&age=0&filter=&players=10233,5640,6655,4682,1642,8258,3132,6485), sorted by WAR and put them in a table ([thanks Marcos](http://csv.codingnews.info/)). Shocker, Wilson is the worst in all the metrics.
+I pulled the first-half [fizzy beer]({{ site.url }}/2014/06/02/fizzy-beer.html) stats for the All Star relievers and Wilson from [Fangraphs](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2014&month=30&season1=2014&ind=0&team=0&rost=0&age=0&filter=&players=10233,5640,6655,4682,1642,8258,3132,6485), sorted by WAR and put them in a table ([thanks Marcos](http://csv.codingnews.info/)). Shocker, Wilson is the worst in all the metrics.
 
 <table>
   <thead>
@@ -70,4 +70,4 @@ Wilson is a three-time All Star, but his game and robot arm have changed since h
   </tbody>
 </table>
 
-The upside of Wilson's all-star snub has to be the extra rest. His last appearance is still July 6, that time he [threw his shortstop shade](http://isbrianwilsonraging.com/games/2014/07/09/era.html). Whenever he pitches next, Weez will have at least two weeks of relaxing rest.
+The upside of Wilson's all-star snub has to be the extra rest. His last appearance is still July 6, that time he [threw his shortstop shade]({{ site.url }}/games/2014/07/09/era.html). Whenever he pitches next, Weez will have at least two weeks of relaxing rest.

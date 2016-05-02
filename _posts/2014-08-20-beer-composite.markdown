@@ -4,7 +4,7 @@ title:  "Fizzy beer composite scores"
 date:   2014-08-20 11:20:00
 ---
 
-We love our Fangraphs [fizzy beer](http://isbrianwilsonraging.com/2014/06/02/fizzy-beer.html) stats, but they represent 11 different metrics to rank relievers. So much sorting amirite?
+We love our Fangraphs [fizzy beer]({{ site.url }}/2014/06/02/fizzy-beer.html) stats, but they represent 11 different metrics to rank relievers. So much sorting amirite?
 
 Nah. Here are the Dodgers relievers ranked by a composite fizzy beer (FB) score.
 

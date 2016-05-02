@@ -10,7 +10,7 @@ This time it really was epic. Brian Wilson returns from the DL, returns to San F
 Of course it got weird with Weez. Ehire Adrianza ripped a leadoff double that got the win probability going in the Giants' direction.
 
 <div align="center">
-    <img style="width:169px; height:260px;" src="http://isbrianwilsonraging.com/post-assets/2014-04-18-vs-giants/chart.png"/>
+    <img style="width:169px; height:260px;" src="{{ site.url }}/post-assets/2014-04-18-vs-giants/chart.png"/>
     </br><span style="font-size:9pt;">Source: <a href="http://www.fangraphs.com/wins.aspx?date=2014-04-17&team=Dodgers&dh=0&season=2014">FanGraphs</a></span>
 
     <blockquote class="twitter-tweet" lang="en"><p>Adrianza&#39;s double was the first hit ever by a Giant against Brian Wilson. They entered 0 for 16 against him.</p>&mdash; Andrew Baggarly (@CSNBaggs) <a href="https://twitter.com/CSNBaggs/statuses/456920569057796098">April 17, 2014</a></blockquote>
@@ -19,16 +19,16 @@ Of course it got weird with Weez. Ehire Adrianza ripped a leadoff double that go
 
 Wilson then took Joaquin Arias (fly out) and Hunter Pence (walk) to full counts before striking out Pablo Sandoval and retiring Buster Posey to get out of there.
 
-[Fans](https://twitter.com/softballkenzie/status/456922356741459968) [noticed](https://twitter.com/THEREAL_DV/status/456918487949000704) the zip on Wilson's fastball, and PitchFX data shows Weez threw harder in AT&T Park than in his dreadful [previous appearance](http://isbrianwilsonraging.com/games/2014/03/31/sunday-night.html) against the Padres.
+[Fans](https://twitter.com/softballkenzie/status/456922356741459968) [noticed](https://twitter.com/THEREAL_DV/status/456918487949000704) the zip on Wilson's fastball, and PitchFX data shows Weez threw harder in AT&T Park than in his dreadful [previous appearance]({{ site.url }}/games/2014/03/31/sunday-night.html) against the Padres.
 
 Yesterday his fastball velocity maxed at <strong>96.4 mph</strong> for strikes to Pence and Sandoval, whereas Wilson fastballs only reached <strong>92.2</strong> in San Diego. Only [two of his nine fastballs were called balls](https://github.com/danhillreports/isbrianwilsonraging/blob/master/data/2014-04-18-vs-giants/bweez.R#L32), compared to only five strikes in 12 fastballs against the Padres. And there was this crazy 95 mph two seamer to Posey that totally missed the catcher's target but coulda been a strike.
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-04-18-vs-giants/ft.gif"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-04-18-vs-giants/ft.gif"/>
     <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
 </div>
 
-But zippy fastballs don't mean dominant setup man B-Weez is back. Vin Scully said Weez was "laboring." Of the <strong>28 pitches</strong> Wilson in the 8th inning against the Giants, <strong>19 were sliders</strong>. Wilson also went to the [slider to get strikes in San Diego](http://isbrianwilsonraging.com/games/2014/03/31/sunday-night.html).
+But zippy fastballs don't mean dominant setup man B-Weez is back. Vin Scully said Weez was "laboring." Of the <strong>28 pitches</strong> Wilson in the 8th inning against the Giants, <strong>19 were sliders</strong>. Wilson also went to the [slider to get strikes in San Diego]({{ site.url }}/games/2014/03/31/sunday-night.html).
 
 Recall that time Baseball Tonight made Wilson's slider rate by season its "Stat of the Night":
 

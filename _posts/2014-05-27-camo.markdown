@@ -16,7 +16,7 @@ Hyun-Jin Ryu took a perfect game into the 8th inning on Memorial Day, but lost h
 Wilson struck out the first batter he faced and took Skip Schumacher to a 1-2 count. Then, with Dodgers fans doing the wave, it got weird.
 
 <div align="center">
-    <img src="http://isbrianwilsonraging.com/post-assets/2014-05-27-camo/breakdown.png"/>
+    <img src="{{ site.url }}/post-assets/2014-05-27-camo/breakdown.png"/>
     <p class="caption">zone breakdown by <a href="http://baseballsavant.com/pitchfx_search.php?hfPT=&hfZ=&hfGT=R%7C&hfPR=&hfAB=&pid%5B%5D=451216&hfBB=&hfHL=&hfCount=&ddlYear=2014&ddlPlayer=pitcher&ddlMin=0&ddlPitcherHand=&ddlBatterHand=&ddlVGT=&ddlVLT=&txtGameDateGT=2014-05-26&txtGameDateLT=&ddlTeam=&ddlPosition=&hfRO=&ddlHomeRoad=&hfIN=&hfOT=&ddlGroupBy=name&ddlSort=desc&ddlMinABs=0&ddlSBSuccess=&txtPx1=&txtPx2=&txtPz1=&txtPz2=&ddlRPXGT_ft=&ddlRPXGT_in=&ddlRPXLT_ft=&ddlRPXLT_in=&ddlRPYGT_ft=&ddlRPYGT_in=&ddlRPYLT_ft=&ddlRPYLT_in=&txtBAGT=&txtBALT=&txtBLGT=&txtBLLT=&txtSRGT=&txtSRLT=&txtSDGT=&txtSDLT=#results">Baseball Savant</a></p>
 </div>
 
@@ -25,14 +25,14 @@ Weez threw five balls in a row, gave up a two-run double to Billy Hamilton, thre
 Wilson improved the Reds' win probability by 19 percentage points, but Kenley Jansen prevented any more runs and recorded a four-out save.
 
 <div align="center">
-    <img src="http://isbrianwilsonraging.com/post-assets/2014-05-27-camo/chart.png"/>
+    <img src="{{ site.url }}/post-assets/2014-05-27-camo/chart.png"/>
     <p class="caption">Source: <a href="http://www.fangraphs.com/wins.aspx?date=2014-05-26&team=Dodgers&dh=0&season=2014">FanGraphs</a></p>
 </div>
 
 By baseball statistics logic, Weez didn't get charged with a run. But it was definitely a rage-worthy performance.
 
 <div align="center">
-    <img class="freezeframe" src="http://isbrianwilsonraging.com/post-assets/2014-05-27-camo/camo.gif"/>
+    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-05-27-camo/camo.gif"/>
     <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
 </div>
 

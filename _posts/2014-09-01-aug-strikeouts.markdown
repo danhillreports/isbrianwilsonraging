@@ -10,7 +10,7 @@ In [11 August appearances](http://www.baseball-reference.com/players/gl.cgi?id=w
 
 Note Wilson has no strikeouts since August 14, when he had an [awful outing](http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_08_14_lanmlb_atlmlb_1&mode=wrap&c_id=la#gid=2014_08_14_lanmlb_atlmlb_1&mode=recap&c_id=la) in Atlanta.
 
-Weez struck out three batters in September with a curveball, the pitch he [started throwing](http://isbrianwilsonraging.com/games/2014/07/23/welcome.html) the second half of the season.
+Weez struck out three batters in September with a curveball, the pitch he [started throwing]({{ site.url }}/games/2014/07/23/welcome.html) the second half of the season.
 
 It's been a while since Wilson struck out a batter, so relive the epicness that was the first two weeks of August with these gifs and PitchFX notes from [Baseball Savant](http://baseballsavant.com/pitchfx_search.php?hfPT=&hfZ=&hfGT=R%7C&hfPR=&hfAB=28%7C29%7C&ddlStadium=&hfBB=&hfHL=&pid%5B%5D=451216&hfCount=&ddlYear=2014&ddlPlayer=pitcher&ddlMin=0&ddlPitcherHand=&ddlBatterHand=&ddlVGT=&ddlVLT=&ddlDistGT=&ddlDistLT=&txtAngleGT=&txtAngleLT=&txtGameDateGT=2014-08-01&txtGameDateLT=2014-08-31&ddlTeam=&ddlPosition=&hfRO=&ddlHomeRoad=&hfIN=&hfOT=&ddlGroupBy=name&ddlSort=desc&ddlMinABs=0&ddlSBSuccess=&txtPx1=&txtPx2=&txtPz1=&txtPz2=&ddlRPXGT_ft=&ddlRPXGT_in=&ddlRPXLT_ft=&ddlRPXLT_in=&ddlRPYGT_ft=&ddlRPYGT_in=&ddlRPYLT_ft=&ddlRPYLT_in=&txtBAGT=&txtBALT=&txtBLGT=&txtBLLT=&txtSRGT=&txtSRLT=&txtSDGT=&txtSDLT=#results).
 
@@ -36,7 +36,7 @@ It's been a while since Wilson struck out a batter, so relive the epicness that 
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/1.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/1.gif"/>
 
 <h4>#2</h4>
 <table>
@@ -60,7 +60,7 @@ It's been a while since Wilson struck out a batter, so relive the epicness that 
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/2.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/2.gif"/>
 
 <h4>#3</h4>
 <table>
@@ -84,7 +84,7 @@ It's been a while since Wilson struck out a batter, so relive the epicness that 
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/3.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/3.gif"/>
 
 <h4>#4</h4>
 <table>
@@ -108,7 +108,7 @@ It's been a while since Wilson struck out a batter, so relive the epicness that 
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/4.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/4.gif"/>
 
 <h4>#5</h4>
 <table>
@@ -134,7 +134,7 @@ It's been a while since Wilson struck out a batter, so relive the epicness that 
 
 Struck out the side!
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/5.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/5.gif"/>
 
 <h4>#6</h4>
 <table>
@@ -158,7 +158,7 @@ Struck out the side!
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/6.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/6.gif"/>
 
 <h4>#7</h4>
 <table>
@@ -182,7 +182,7 @@ Struck out the side!
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/7.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/7.gif"/>
 
 <h4>#8</h4>
 <table>
@@ -206,7 +206,7 @@ Struck out the side!
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/8.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/8.gif"/>
 
 <h4>#9</h4>
 <table>
@@ -230,7 +230,7 @@ Struck out the side!
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/9.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/9.gif"/>
 
 <h4>#10</h4>
 <table>
@@ -254,7 +254,7 @@ Struck out the side!
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/10.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/10.gif"/>
 
 <h4>#11</h4>
 <table>
@@ -278,7 +278,7 @@ Struck out the side!
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/11.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/11.gif"/>
 
 <h4>#12</h4>
 <table>
@@ -302,4 +302,4 @@ Struck out the side!
 	</tbody>
 </table>
 
-<img src="http://isbrianwilsonraging.com/post-assets/2014-09-01-aug-strikeouts/12.gif"/>
+<img src="{{ site.url }}/post-assets/2014-09-01-aug-strikeouts/12.gif"/>

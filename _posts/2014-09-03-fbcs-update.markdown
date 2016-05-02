@@ -6,7 +6,7 @@ date:   2014-09-03 18:00:00
 
 Paul Maholm is dropped from this week's fizzy beer composite scores, which moves Brian Wilson, Chris Withrow and Chris Perez up one in the out-of-seven rankings.
 
-Weez made two appearances with no earned runs since [the last FBCS](http://isbrianwilsonraging.com/2014/08/27/fbcs-update.html) but struck out no one to finish the month with [12 Ks](http://isbrianwilsonraging.com/2014/09/01/aug-strikeouts.html).
+Weez made two appearances with no earned runs since [the last FBCS]({{ site.url }}/2014/08/27/fbcs-update.html) but struck out no one to finish the month with [12 Ks]({{ site.url }}/2014/09/01/aug-strikeouts.html).
 
 The table below uses [Fangraphs leaderboard data](http://www.fangraphs.com/leaders.aspx?pos=all&stats=rel&lg=all&qual=0&type=c,7,11,114,13,120,121,217,6,45,42,59&season=2014&month=0&season1=2014&ind=0&team=22&rost=0&age=0&filter=&players=0) and was built with [CSV to table](http://csv.codingnews.info/) by Marcos. <span class="increase">Blue</span> represents a positive change from the previous week, <span class="decrease">red</span> means that pitcher's metric went in the wrong direction.
 
