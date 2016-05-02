@@ -18,7 +18,7 @@ The game-changing, pinch-hit Seth Smith homerun. The error, the stolen base send
 Fail. Rage.
 
 <div align="center">
-    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-03-31-sunday-night/shame1.gif"/>
+    <img class="freezeframe" src="{{ site.baseurl }}/post-assets/2014-03-31-sunday-night/shame1.gif"/>
         <p class="caption">gif hover by <a href="http://freezeframe.chrisantonellis.com">FreezeFrame</a></p>
 </div>
 
@@ -37,5 +37,5 @@ Naive pitching coach says "Don't throw sliders!" But Dodgers color guy Rick Mond
 Only five of the 12 fastballs and cutters Wilson threw were strikes, according to the PitchFX data. Inability to throw fastballs for strikes leads to negative WPA and hanging head in shame.
 
 <div align="center">
-    <img class="freezeframe" src="{{ site.url }}/post-assets/2014-03-31-sunday-night/shame2.gif"/>
+    <img class="freezeframe" src="{{ site.baseurl }}/post-assets/2014-03-31-sunday-night/shame2.gif"/>
 </div>

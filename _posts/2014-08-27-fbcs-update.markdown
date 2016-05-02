@@ -4,7 +4,7 @@ title:  "Updated FBCS"
 date:   2014-08-27 12:20:00
 ---
 
-Revisiting fizzy beer composite scores a week after the [original post]({{ site.url }}/2014/08/20/beer-composite.html) shows how pitchers performed but also reveals some flaws with the metric.
+Revisiting fizzy beer composite scores a week after the [original post]({{ site.baseurl }}/2014/08/20/beer-composite.html) shows how pitchers performed but also reveals some flaws with the metric.
 
 <span class="increase">Blue</span> in the table below means a positive change, <span class="decrease">red</span> means that pitcher's metric went in the wrong direction over the past week.
 

@@ -11,7 +11,7 @@ The chart below uses [ESPN's doubleheader resource](http://espn.go.com/mlb/stats
 
 <div align="center">
     <h3>Doubleheaders during Brian Wilson's career</h3>
-    <img src="{{ site.url }}/post-assets/2014-05-01-doubleheader/bweez.jpg"/>
+    <img src="{{ site.baseurl }}/post-assets/2014-05-01-doubleheader/bweez.jpg"/>
 </div>
 
 There are lots of factors &#151; the score of the game, the performance of the starter, a player's recent workload &#151; that affect a manager's decision  to call a pitcher from the bullpen.

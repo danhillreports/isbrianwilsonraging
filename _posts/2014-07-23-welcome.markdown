@@ -5,14 +5,14 @@ date:   2014-07-23 8:30:00
 categories: games
 ---
 
-The second half of the 2014 season is underway (crazy) and Brian Wilson returned to the mound after a long break due in part to his absence from the All Star Game ([ridiculous]({{ site.url }}/2014/07/16/allstar.html)).
+The second half of the 2014 season is underway (crazy) and Brian Wilson returned to the mound after a long break due in part to his absence from the All Star Game ([ridiculous]({{ site.baseurl }}/2014/07/16/allstar.html)).
 
 Reasons for positive rage: Weezy's second half ERA is a perfect 0, and he has two strike outs in two appearances.
 
-Also, since Weez pitched on 17 days of rest after his [DL stint]({{ site.url }}/games/2014/04/15/there-will-be-rage.html) and on 14 days with the All Star break, we have this breaking news from Baseball-Reference.com:
+Also, since Weez pitched on 17 days of rest after his [DL stint]({{ site.baseurl }}/games/2014/04/15/there-will-be-rage.html) and on 14 days with the All Star break, we have this breaking news from Baseball-Reference.com:
 
 <div align="center">
-    <a href="http://www.baseball-reference.com/players/gl.cgi?id=wilsobr01&t=p&year=2014"><img src="{{ site.url }}/post-assets/2014-07-23-welcome/team-record.png"/></a>
+    <a href="http://www.baseball-reference.com/players/gl.cgi?id=wilsobr01&t=p&year=2014"><img src="{{ site.baseurl }}/post-assets/2014-07-23-welcome/team-record.png"/></a>
 </div>
 
 <p>¯\_(ツ)_/¯</p>
@@ -22,13 +22,13 @@ Weezy threw 35 pitches in his first two appearances of the second half, and the 
 But he's also thrown two sub-75 mph pitches...
 
 <div align="center">
-    <img src="{{ site.url }}/post-assets/2014-07-23-welcome/stl.gif"/>
+    <img src="{{ site.baseurl }}/post-assets/2014-07-23-welcome/stl.gif"/>
 </div>
 
-PitchFX called them [curveballs](http://baseballsavant.com/pitchfx_search.php?hfPT=cu%7C&hfZ=&hfGT=R%7C&hfPR=&hfAB=&ddlStadium=&hfBB=&hfHL=&pid%5B%5D=451216&hfCount=&ddlYear=2014&ddlPlayer=pitcher&ddlMin=0&ddlPitcherHand=&ddlBatterHand=&ddlVGT=&ddlVLT=&ddlDistGT=&ddlDistLT=&txtGameDateGT=2014-07-20&txtGameDateLT=2014-07-22&ddlTeam=&ddlPosition=&hfRO=&ddlHomeRoad=&hfIN=&hfOT=&ddlGroupBy=name&ddlSort=desc&ddlMinABs=0&ddlSBSuccess=&txtPx1=&txtPx2=&txtPz1=&txtPz2=&ddlRPXGT_ft=&ddlRPXGT_in=&ddlRPXLT_ft=&ddlRPXLT_in=&ddlRPYGT_ft=&ddlRPYGT_in=&ddlRPYLT_ft=&ddlRPYLT_in=&txtBAGT=&txtBALT=&txtBLGT=&txtBLLT=&txtSRGT=&txtSRLT=&txtSDGT=&txtSDLT=#results), but could it be... [the knuckle???]({{ site.url }}/games/2014/03/29/that-knuckleball-doe.html)
+PitchFX called them [curveballs](http://baseballsavant.com/pitchfx_search.php?hfPT=cu%7C&hfZ=&hfGT=R%7C&hfPR=&hfAB=&ddlStadium=&hfBB=&hfHL=&pid%5B%5D=451216&hfCount=&ddlYear=2014&ddlPlayer=pitcher&ddlMin=0&ddlPitcherHand=&ddlBatterHand=&ddlVGT=&ddlVLT=&ddlDistGT=&ddlDistLT=&txtGameDateGT=2014-07-20&txtGameDateLT=2014-07-22&ddlTeam=&ddlPosition=&hfRO=&ddlHomeRoad=&hfIN=&hfOT=&ddlGroupBy=name&ddlSort=desc&ddlMinABs=0&ddlSBSuccess=&txtPx1=&txtPx2=&txtPz1=&txtPz2=&ddlRPXGT_ft=&ddlRPXGT_in=&ddlRPXLT_ft=&ddlRPXLT_in=&ddlRPYGT_ft=&ddlRPYGT_in=&ddlRPYLT_ft=&ddlRPYLT_in=&txtBAGT=&txtBALT=&txtBLGT=&txtBLLT=&txtSRGT=&txtSRLT=&txtSDGT=&txtSDLT=#results), but could it be... [the knuckle???]({{ site.baseurl }}/games/2014/03/29/that-knuckleball-doe.html)
 
 <div align="center">
-    <img src="{{ site.url }}/post-assets/2014-07-23-welcome/knuckle.gif"/>
+    <img src="{{ site.baseurl }}/post-assets/2014-07-23-welcome/knuckle.gif"/>
 </div>
 
 Stay tuned for an epic second half.

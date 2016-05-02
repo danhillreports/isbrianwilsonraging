@@ -11,7 +11,7 @@ But there's still reason to rage: my "Brian Wilson" email alerts stopped and pos
 Folks have been asking me, "how's Weezy's fastball?" I turned to Baseball Savant's sweet [pitchFX search](http://baseballsavant.com/pitchfx_search.php?hfPT=ff%7Cft%7C&hfZ=&hfGT=R%7C&hfPR=&hfAB=&pid%5B%5D=451216&hfBB=&hfHL=&hfCount=&ddlYear=2014&ddlPlayer=pitcher&ddlMin=0&ddlPitcherHand=&ddlBatterHand=&ddlVGT=&ddlVLT=&ddlDistGT=&ddlDistLT=&txtGameDateGT=&txtGameDateLT=&ddlTeam=&ddlPosition=&hfRO=&ddlHomeRoad=&hfIN=&hfOT=&ddlGroupBy=name&ddlSort=desc&ddlMinABs=0&ddlSBSuccess=&txtPx1=&txtPx2=&txtPz1=&txtPz2=&ddlRPXGT_ft=&ddlRPXGT_in=&ddlRPXLT_ft=&ddlRPXLT_in=&ddlRPYGT_ft=&ddlRPYGT_in=&ddlRPYLT_ft=&ddlRPYLT_in=&txtBAGT=&txtBALT=&txtBLGT=&txtBLLT=&txtSRGT=&txtSRLT=&txtSDGT=&txtSDLT=#results).
 
 <div align="center">
-    <img src="{{ site.url }}/post-assets/2014-06-25-fb-check/fastballs.png"/>
+    <img src="{{ site.baseurl }}/post-assets/2014-06-25-fb-check/fastballs.png"/>
     <p><span class="caption">Chart code <a href="https://github.com/danhillreports/isbrianwilsonraging/blob/gh-pages/data/2014-06-25-fb-check/">on GitHub</a></span></p>
 </div>
 
@@ -19,4 +19,4 @@ Wilson's average fastball velocity this year is <strong>92.6 mph</strong> with a
 
 After some variance in the first two months of the year, that regression line shows Wilson's fastballs stabilizing around 92 mph over the past month.
 
-Weezy's fastest pitches this season are still those [96.4 mph fastballs he threw in San Francisco]({{ site.url }}/games/2014/04/18/vs-giants.html), but he's hit 95 on the radar gun 11 times since that game.
+Weezy's fastest pitches this season are still those [96.4 mph fastballs he threw in San Francisco]({{ site.baseurl }}/games/2014/04/18/vs-giants.html), but he's hit 95 on the radar gun 11 times since that game.
